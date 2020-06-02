@@ -1,8 +1,8 @@
 ## **06 _#_** Microinteractions
 
 ### Microinteractions - Einführung
-<a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/Mono-Stereoscopic-Video-Viewer/" target="_bank">
-<img src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/Video_Bauchbinde_Microinteractions.jpg">
+<a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/Mono-Stereoscopic-Video-Viewer/#https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_01_Microinteractions_Einfuehrung" target="_bank">
+<img src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_01_Microinteractions_Einfuehrung.jpg">
 </a>
 
 ### A Brief History of Microinteractions
