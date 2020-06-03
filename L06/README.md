@@ -33,15 +33,34 @@
 
 ### Literature
 
+Saffer, Dan. **Microinteractions: Designing with Details**. Sebastopol, CA: O'Reilly, 2013.
+
 
 ---
 
 
 ## **A _---_** Aufgabe #06
+### VR Cardboard Brille
+
+Als Einstieg in das Prototyping von Mixed Reality User Interfaces werden wir uns zunächst eine einfache VR-Brille bauen, die wir in den Folgeaufgaben für die Erprobung unserer Konzepte nutzen können. Auch wenn Sie zu Hause unter Umständen schon eine VR-Brille besitzen, denke ich, dass diese Aufgabe den Aufbau eines Virtual-Reality-Headset wirklich _begreifbar_ macht.
+Der Bausatz basiert auf [Googles Cardboard](https://developers.google.com/cardboard/) und kann mit einfache Materialien, wie Papier / Pappe, Linsen und Smartphone, entwickelt werden.
+
+Ein Bastelpaket sollte bei Ihnen in den letzten Tagen per Post angekommen sein. Darin befindet sich eine Papiervorlage (basierend auf der Version 1 des Carboards) und ein Paar doppelkonvexe Linsen.
+
+![VR Cardboard Kit](vr-cardboard_bastelkit.jpg)
+
+Folgende Punkte bitte ich Sie für diese Aufgabe zu bearbeiten:
+
+1. Erstellen Sie ein eigenes HFU-Design für die Papiervorlage. Ein erster Impuls für eine HFU-eigene VR-Cardboard-Brille bietet die Papiervorlage aus dem Bastelpaket. Eine Vektorvorlage zur Ausgestaltung finden Sie bspw. [hier](https://manualdomundo.uol.com.br/wp-content/uploads/Scissor-cut_template.pdf). Ich würde Ihnen empfehlen, dass Sie die Brille noch etwas einfache, als in der Vorlage halten, d.h. aus meiner Sicht kann man auf den Magnet, den RFID usw. für einen schnellen Entwurf verzichten.
+
+2. Bauen sie die Papierbrille zusammen. Die Informationen auf der [Google Cardboard Website](https://arvr.google.com/intl/de_de/cardboard/manufacturers/) sind leider zu low-level, Sie finden aber viele Videoanleitungen auf den einschlägigen Portalen. 
+
+3. **Dokumentieren* Sie dabei den Zusammenbau mit Ihrer Foto-Kamera Schritt für Schritt.
+
+3. Testen Sie Ihre Brille mit dem ersten Kapitel dieser Lektion.
 
 
-
-### Abgabe dieser Aufgabe bis zum 14. Juni um 18:00
+### Die Dokumentation dieser Aufgabe bis zum 14. Juni um 18:00 in Ihrem Repo verlinken.
 
 
 ---
