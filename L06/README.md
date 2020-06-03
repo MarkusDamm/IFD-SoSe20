@@ -6,25 +6,25 @@
 </a>
 
 ### A Brief History of Microinteractions
-<video controls width="100%"> 
+<video controls width="100%" poster="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_02_History_of_Microinteractions.png"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_02_History_of_Microinteractions.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_02_History_of_Microinteractions.mp4">Zum Video</a>
 </video>
 
 ### The Process of Microinteractions
-<video controls width="100%"> 
+<video controls width="100%" poster="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_03_Process_of_Microinteractions.png"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_03_Process_of_Microinteractions.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_03_Process_of_Microinteractions.mp4">Zum Video</a>
 </video>
 
 ### Microcopy and Tonality
-<video controls width="100%"> 
+<video controls width="100%" poster="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_04_Microcopy_and_Tonality.png"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_04_Microcopy_and_Tonality.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_04_Microcopy_and_Tonality.mp4">Zum Video</a>
 </video>
 
 ### Transfer Exercise
-<video controls width="100%"> 
+<video controls width="100%" poster="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_05_Exercise.png"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_05_Exercise.mp4" type="video/mp4"> 
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_05_Exercise.mp4">Zum Video</a>
 </video>
