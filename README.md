@@ -56,10 +56,10 @@
 
 ---
 
-### [**07 _#_** Inclusive Design](L07)
-- Universal and inclusive design
-- Disablilities
-- Accessibility
+### [**07 _#_** Test and Evaluate](L07)
+- Cognitive Walkthrough, Heurisic Evaluation
+- User Tesing, A-B / Multi-Variant Testing, 
+- Think-Aloud
 
 #### [**19 _Jun_** Q&A #07](L07/#-qa-fragen-und-antworten) | [Praktikum --- Mixed Reality + HMD](L07/#a--aufgabe-07)
 
@@ -87,10 +87,10 @@
 
 ---
 
-### [**10 _#_** Testing, Evaluating](L10)
-- Cognitive Walkthrough, Heurisic Evaluation
-- User Tesing, A-B / Multi-Variant Testing, 
-- Think-Aloud
+### [**10 _#_** Inclusive Design](L10)
+- Universal and inclusive design
+- Disablilities
+- Accessibility
 
 #### [**17 _Jul_** Q&A #10](L00/#-qa-fragen-und-antworten) | [Praktikum --- IoT](L10/#a--aufgabe-10)
 
