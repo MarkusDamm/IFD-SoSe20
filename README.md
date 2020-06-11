@@ -65,15 +65,12 @@
 
 ---
 
-#### **26 _Jun_** Tag der Medien (Virtual)
+### [**08 _#_** Inclusive Design](L08)
+- Universal and inclusive design
+- Disablilities
+- Accessibility
 
----
-
-### [**08 _#_** Natural Language Interfaces & AI](L08)
-- (Multi-) Touch Interaktion
-- Gestensteuerung
-
-#### [**03 _Jul_** Q&A #08](L08/#-qa-fragen-und-antworten) | [Praktikum --- Mixed Reality + HMD](L08/#a--aufgabe-08)
+#### [**26 _Jun_** Q&A #08](L08/#-qa-fragen-und-antworten) | [Praktikum --- Mixed Reality + HMD](L08/#a--aufgabe-08)
 
 ---
 
@@ -81,17 +78,25 @@
 - Ubiquitous Computing
 - Tangible User Interfaces
 - Printed Electronics
-- Physical Computing mit Arduino, Raspi und ESP
+- Physical Computing with Arduino, Raspi and ESP
 
-#### [**10 _Jul_** Q&A #09](L09/#-qa-fragen-und-antworten) | [Praktikum --- IoT](L09/#a--aufgabe-09)
+#### [**03 _Jul_** Q&A #09](L09/#-qa-fragen-und-antworten) | [Praktikum --- IoT](L09/#a--aufgabe-09)
 
 ---
 
-### [**10 _#_** Inclusive Design](L10)
-- Universal and inclusive design
-- Disablilities
-- Accessibility
+### [**10 _#_** Natural Language Interfaces & AI](L10)
+- (Multi-) Touch Interaction
+- Gestensteuerung
 
-#### [**17 _Jul_** Q&A #10](L00/#-qa-fragen-und-antworten) | [Praktikum --- IoT](L10/#a--aufgabe-10)
+#### [**10 _Jul_** Q&A #10](L10/#-qa-fragen-und-antworten) | [Praktikum --- IoT](L10/#a--aufgabe-10)
+
+---
+
+### [**11 _#_** Futuristic Interfaces](L11)
+- BCI, Futuristic Interfaces
+- Semester WrapUp
+
+#### [**17 _Jul_** WrapUp](L11/#-qa-fragen-und-antworten)
+
 
 

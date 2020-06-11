@@ -70,10 +70,23 @@ Martin, Bella, and Bruce M. Hanington. **Universal methods of design : 100 ways 
 
 
 ## **A _---_** Aufgabe #07
+### Virtual Immersive Lecture / Panel Discussion
 
-tba
+Für das DIY Head-Mounted Display werden wir nun ein erstes VR-Konzept gestalten. Als Ausgangspunkt der Konzeption haben Sie folgende zwei Formate: eine 360-Grad **Vorlesung** zu Microinteractions und eine 360-Grad **Gesprächsrunde** (mit dem großartigen Kollegen Christian Fries und unserer Allrounder-Studentin Monetta Marchiano).
 
-### Abgabe bis zum XXXX um 18:00 in Ihrem Repo verlinken.
+<a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/Mono-Stereoscopic-Video-Viewer/#https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_01_Microinteractions_Einfuehrung" target="_bank">
+<img src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/L06_01_Microinteractions_Einfuehrung.jpg" width="45%">
+</a> <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/Mono-Stereoscopic-Video-Viewer/#https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/VR-Video_360_Gespraechsrunde&180" target="_bank">
+<img src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L06/VR-Video_360_Gespraechsrunde.jpg" width="45%">
+</a>
+
+Wählen Sie eines der beiden Formate aus und entwickeln Sie dafür ein Konzept zur Erweiterung der Inhalte, der Interaktion und der Visualität in der Virtuellen Realität. Aktuell kann mit der Anwendung nur der 360-Grad Videoclip betrachtet werden. Welche Inhalte und Interaktionsmöglichkeiten wären eine sinnvolle Ergänzung für den Nutzer? 
+
+1. **Storyboard**: Beschreiben Sie zunächst in einem Szenario als Storyboard Skizze Ihren entwickelten Konzeptentwurf.
+2. **Video-Prototyp**: Machen Sie das Konzept greifbar. Gestalten Sie dafür einen Video-Prototypen, der die relevanten Punkte Ihres Konzepts narrativ visualisiert.
+3. **Technischer Durchstich**: als Startpunkt für die Umsetzung eines High-Fids finden Sie im [Aufagbenordner](https://github.com/gabriel-rausch/IFD-SoSe20/tree/master/L07/task_material/Browser-based_VUI) einen Three.js-"Frankenstein". Ansonsten, wenn Sie mutig sind, dürfen Sie auch gerne alternative Werkzeuge, wie [React 360](https://facebook.github.io/react-360/) oder [Google AR Code](https://developers.google.com/ar), ausprobieren. Ziel dieses Aufgabenpunkts ist es, dass Sie sich mit dem grundlenden Werkzeug zur Entwicklung eines VR-Prototypen beschäftigt haben. In der nächsten Lektion werden Sie dieses Werkzeug nutzen, um Ihr Konzept abbilden zu können.
+
+### Abgabe bis zum 21. Juni um 18:00 Uhr in Ihrem Repo verlinken.
 
 
 ---
