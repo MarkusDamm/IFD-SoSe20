@@ -67,4 +67,41 @@ Folgende Punkte bitte ich Sie für diese Aufgabe zu bearbeiten:
 
 
 ## **?! _<small>Q&A</small>_** Fragen und Antworten
-(die Publikation der Zusammenfassung erfolgt nach dem Q&A Termin)
+
+Prüfung
+
+- Statt Klausur gibt es dieses Semester eine Aufgabe während der
+
+Klausurenphase zu einem bekannten Thema
+
+Aufgabe VUI
+
+- Mike's Serverkontrolle VUI wird vorgestellt:
+
+    - "vault" wird als "world" erkannt: Für Sprachassistenten schwierig zu
+
+erkennen
+
+Fragen zu Lektion #6
+
+- Bedarf an Paketen der Brillen: Bikonvexen Linsen kann man auch auf
+
+amazon bestellen (45 mm)
+
+- 360 Grad Video hat nicht funktioniert. Mögliche Gründe:
+
+    - Internetverbindung
+
+    - Browser
+
+Fragen zu Aufgaben #7
+
+- Sollen wir das als Live-Stream konzipieren oder als aufgenommenes
+
+Video?
+
+    - Wie wir wollen. Entweder Video Konserve oder einen Live Stream.
+
+- Geht es primär um Interaktion?
+
+    - Wie wir wollen, wir sind ganz frei.
