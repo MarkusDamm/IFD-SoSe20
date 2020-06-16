@@ -72,7 +72,7 @@ Martin, Bella, and Bruce M. Hanington. **Universal methods of design : 100 ways 
 ## **A _---_** Aufgabe #07
 ### Virtual Immersive Lecture / Panel Discussion
 
-Für das DIY Head-Mounted Display werden wir nun ein erstes VR-Konzept gestalten. Als Ausgangspunkt der Konzeption haben Sie folgende zwei Formate: eine 360-Grad **Vorlesung** zu Microinteractions und eine 360-Grad **Gesprächsrunde** (vielen Dank an den großartigen Kollegen Christian Fries und unserer Allrounder-Studentin Monetta Marchiano für die Unterstützung). 
+Für das DIY Head-Mounted Display aus der [letzten Aufgabe](/IFD-SoSe20/L06/#a--aufgabe-06) werden wir nun ein erstes VR-Konzept gestalten. Als Ausgangspunkt der Konzeption haben Sie folgende zwei Formate: eine 360-Grad **Vorlesung** zu Microinteractions und eine 360-Grad **Gesprächsrunde** (vielen Dank an den großartigen Kollegen Christian Fries und unserer Allrounder-Studentin Monetta Marchiano für die Unterstützung). 
 
 Das Material wurde mit einer GoPro Max mit doppelten Weitwinkel-Objektiven aufgenommen. Vielen Dank auch an Marleen Hahn für den Ton-Support. Dieser web-basierte stereoskopische VR-Prototyp ist nicht perfekt (bspw. eingeschränkter Browser-Support), aber als Startpunkt für diesen Aufgabenblock eine schöne Spielwiese.
 
