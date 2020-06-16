@@ -27,7 +27,7 @@
 	</div>
 
 	<video id="video" preload loop muted crossOrigin="anonymous" playsinline style="display:none"
-		src="assets/L06_01_Microinteractions_Einfuehrung_lq.mp4"></video>
+		src="assets/L06_01_Microinteractions_Einfuehrung.mp4"></video>
 
 	<audio id="audio" preload loop crossOrigin="anonymous" style="display:none" playsinline
 		src="assets/L06_01_Microinteractions_Einfuehrung.mp3"></audio>
@@ -46,7 +46,9 @@
 		 */
 		var hash = window.location.hash.substring(1,window.location.hash.length);
 		var file = hash.split('&')[0];
-		var rotationParam = hash.split('&')[1];
+		var rotationParam = 0;
+		if(hash.split('&')[1]) rotationParam = hash.split('&')[1];
+
 		document.querySelector('#video').setAttribute('src', file + '.mp4');
 		document.querySelector('#audio').setAttribute('src', file + '.mp3');
 		document.querySelector('#overlay .bg').style.backgroundImage = 'url(' + file + '.jpg)';
