@@ -51,9 +51,16 @@
 ### WrapUp
 <video controls width="100%"> 
     <source src="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L07/L07_09_WrapUp.mp4" type="video/mp4"> 
+    <track label="Deutsch" kind="subtitles" srclang="de" src="test.vtt" default>
+    <track label="Doofie" kind="subtitles" srclang="de" src="test2.vtt">
     <a href="https://lehre.gabriel-rausch.de/HFU/IFD_SoSe20/L07/L07_09_WrapUp.mp4">Zum Video</a>
 </video>
 
+<style>
+::cue {
+   font-size: 14px;
+}
+</style>
 
 ### Literature
 

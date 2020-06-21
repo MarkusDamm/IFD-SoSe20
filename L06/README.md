@@ -49,6 +49,9 @@ Ein Bastelpaket sollte bei Ihnen in den letzten Tagen per Post angekommen sein. 
 
 ![VR Cardboard Kit](vr-cardboard_bastelkit.jpg)
 
+
+![VR Cardboard Kit](vr-cardboard_bastelkit.jpg)
+
 Folgende Punkte bitte ich Sie für diese Aufgabe zu bearbeiten:
 
 1. Erstellen Sie ein eigenes HFU-Design für die Papiervorlage. Ein erster Impuls für eine HFU-eigene VR-Cardboard-Brille bietet die Papiervorlage aus dem Bastelpaket. Eine Vektorvorlage zur Ausgestaltung finden Sie bspw. [hier](https://manualdomundo.uol.com.br/wp-content/uploads/Scissor-cut_template.pdf). Ich würde Ihnen empfehlen, dass Sie die Brille noch etwas einfache, als in der Vorlage halten, d.h. aus meiner Sicht kann man auf den Magnet, den RFID usw. für einen schnellen Entwurf verzichten.
