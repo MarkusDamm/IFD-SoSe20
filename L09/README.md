@@ -48,9 +48,9 @@ Für den Tag der Medien werden die Ergebnisse aus diesem Kurs präsentiert. Dabe
 
 Deshalb werden wir die nächste Woche für eine Überarbeitung der Inhalte nutzen. Folgende Punkte bitte anpassen:
 
-- die Hauptseite soll eine visuell ansprechende Übersicht Ihrer Projekte geben (bei den meisten von Ihnen wird eine einfache Text-Link-Liste angezeigt). Sie können kleine Teaser-Bilder (kurze GIFs oder Video-Clip-Loops wären noch schöner) erstellen. Die Teaser sollten mit einem aussagekräften Titel + Untertitel ergänzt werden (bspw. den Titel "GUI Prototyp Lo-Fi" ergänzen mit "GUI Prototyp Low-Fidelity - Ein Entwurf eines grafischen Interfaces zur Darstellung von steuerungsrelevanten Zahlen in produzierenden Werken"). Anmerkung zur Umsetzung: Github-Pages kann entweder Markdown-Files oder auch HTML-Seiten darstellen. Sie können die Übersichtsseite also mit den regulären HTML/CSS-Technologien umsetzen und gestalten.
+- die **Hauptseite soll eine visuell ansprechende Übersicht Ihrer Projekte bieten** (bei den meisten von Ihnen wird eine einfache Text-Link-Liste angezeigt). Sie können kleine Teaser-Bilder (kurze GIFs oder Video-Clip-Loops wären noch schöner) erstellen. Die Teaser sollten mit einem aussagekräften Titel + Untertitel ergänzt werden (bspw. den Titel "GUI Prototyp Lo-Fi" ergänzen mit "GUI Prototyp Low-Fidelity - Ein Entwurf eines grafischen Interfaces zur Darstellung von steuerungsrelevanten Zahlen in produzierenden Werken"). Anmerkung zur Umsetzung: Github-Pages kann entweder Markdown-Files oder auch HTML-Seiten darstellen. Sie können die Übersichtsseite also mit den regulären HTML/CSS-Technologien umsetzen und gestalten.
 
-- Prüfen Sie Ihre Arbeiten auf Vollständigkeit (Entwürfe als auch finale Prototypen, wie in den Aufgaben beschrieben). Alle Inhalte sollten im Browser erreichbar sein. Je nach Aufgabe konnte es auch sein, dass Sie den finalen Kandidaten als Video-Clip/Screencast festhalten mussten.
+- Prüfen Sie Ihre **Arbeiten auf Vollständigkeit** (Entwürfe als auch finale Prototypen, wie in den Aufgaben beschrieben). Alle Inhalte sollten im Browser erreichbar sein. Je nach Aufgabe konnte es auch sein, dass Sie den finalen Kandidaten als Video-Clip/Screencast festhalten mussten.
 
 
 
