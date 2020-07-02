@@ -48,9 +48,9 @@ Gehen Sie dabei wie folgt vor:
 
 1. Bringen Sie zunächst Ihr Grobkonzept auf Papier (Zeichnen und Skizzieren von relevanten Szenarien). Digitalisieren Sie das Grobkonzept und legen Sie es in Ihrem Repo ab.
 
-2. Einen ersten Ansatz eines funktionalen Prototypen werden wir leider nicht mit echter Hardware, Sensoren und Aktoren umsetzten können (es sei denn, Sie besitzen zu Hause die Bausteine plus Lötequipment). Deshalb werden wir mit dem Arduino-Emulator [Thinkercad](https://www.tinkercad.com/dashboard) von Autodesk einen ersten Entwurf entwickeln. Registieren Sie sich für diese Plattform und erstellen Sie im Bereich "Circuits" einen Arduino-Prototypen. Versuchen Sie eine Schaltung mit dem Arduino zu konstruieren, dass Ihr Konzept der Abstandsmessung mit Ihrer Messmethode abbildet (je nach Sensortyp kann es leider sein, dass der Emulator an seine technischen Grenzen kommt, Sie müssen also etwas kreativ und flexibel sein). Bei Unterschreitung des Abstands soll eine rote LED aufleuchten.
+2. Einen ersten Ansatz eines funktionalen Prototypen werden wir leider nicht mit echter Hardware, Sensoren und Aktoren umsetzten können (es sei denn, Sie besitzen zu Hause ein Arduino, Bauteile plus Lötequipment). Deshalb werden wir mit dem Arduino-Emulator [Thinkercad](https://www.tinkercad.com/dashboard) von Autodesk einen ersten Entwurf entwickeln. Registieren Sie sich für diese Plattform und erstellen Sie im Bereich "Circuits" einen Arduino-Prototypen. Versuchen Sie eine Schaltung mit dem Arduino zu konstruieren, dass Ihr Konzept der Abstandsmessung mit Ihrer Messmethode abbildet (je nach Sensortyp kann es leider sein, dass der Emulator an seine technischen Grenzen kommt, Sie müssen also etwas kreativ und flexibel sein). Bei Unterschreitung des Abstands soll eine rote LED aufleuchten.
 
-3. Screenshotten Sie relevante Zustände Ihrer Arduino-Aufbaus und legen Sie alles in Ihrem Repo ab.
+3. Screenshotten Sie relevante Zustände Ihres Arduino-Aufbaus und legen Sie alles in Ihrem Repo ab.
 
 
 ### Abgabe bis zum 12. Juli um 18:00 in Ihrem Repo verlinken.
