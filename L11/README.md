@@ -41,7 +41,7 @@ In der letzten Aufgabe für diesen Kurs sollten Sie einen Prototypen aus dem Pra
 
 **Heuristische Evaluation** bzw. **Empirischer Nutzertest**
 
-- [ ] Herangehensweise und methodisches Vorgehen
+- [ ] Methodisches, zielbewusstes und kritisches Vorgehen
 - [ ] Inhaltliche Qualität
 - [ ] Vollständigkeit der Dokumentation
 
@@ -51,7 +51,7 @@ In der letzten Aufgabe für diesen Kurs sollten Sie einen Prototypen aus dem Pra
 - [ ] Interaktive Qualität
 - [ ] Inhaltliche Qualität
 - [ ] Einsatz von Methoden und Werkzeugen
-- [ ] Kreativität
+- [ ] Eigene Ideen, Kreativität
 - [ ] Vollständigkeit der Dokumentation
 
 
